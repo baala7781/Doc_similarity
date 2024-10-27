@@ -5,3 +5,4 @@ langchain==0.2.11
 chromadb
 sentence_transformers==2.2.0
 python-dotenv
+altair==4.2.0
