@@ -3,7 +3,6 @@ streamlit
 langchain_google_genai
 langchain
 chromadb
-os
 datetime
 uuid
 sentence_transformers
