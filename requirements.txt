@@ -3,7 +3,6 @@ streamlit
 langchain_google_genai
 langchain
 chromadb
-tempfile
 os
 datetime
 uuid
