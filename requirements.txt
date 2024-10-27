@@ -4,4 +4,4 @@ langchain_google_genai==1.0.8
 langchain==0.2.11
 chromadb
 sentence_transformers==2.2.0
-dotenv
+python-dotenv
