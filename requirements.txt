@@ -3,6 +3,6 @@ streamlit==1.10.0
 langchain_google_genai==1.0.8
 langchain==0.2.11
 chromadb
-sentence_transformers==2.2.0
+sentence_transformers==2.2.2
 python-dotenv
 altair==4.2.0
